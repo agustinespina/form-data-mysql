@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Database</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+    <form method="post">
+    	<h1>Complete sus datos</h1>
+		<h2> agustinespina on Github </h2>
+    	<input type="text" name="name" placeholder="Nombre completo">
+    	<input type="email" name="email" placeholder="Email">
+    	<input type="submit" name="register">
+    </form>
+        <?php 
+        include("registrar.php");
+        ?>
+</body>
+</html>
