@@ -9,12 +9,3 @@
 # EXAMPLE
 
 ![image](https://user-images.githubusercontent.com/102335009/160199226-6979ea0a-2a4a-45a5-ad84-4bfb693f28bd.png)
-
-
-## HOW TO DOWNLOAD
-
-# 1- Downlaod the ZIP
-# 2- Run your localhost
-# 3- Add the database to PHPMYADMIN
-
-
