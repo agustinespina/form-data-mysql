@@ -13,8 +13,8 @@
 
 ## HOW TO DOWNLOAD
 
-1- Downlaod the ZIPj
-2- Run your localhost
-3- Add the database to PHPMYADMIN
+# 1- Downlaod the ZIP
+# 2- Run your localhost
+# 3- Add the database to PHPMYADMIN
 
 
